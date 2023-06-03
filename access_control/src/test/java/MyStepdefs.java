@@ -14,4 +14,12 @@ public class MyStepdefs {
     @Then("expected outcome")
     public void expectedOutcome() {
     }
+
+    @When("there is a user interaction")
+    public void thereIsAUserInteraction() {
+    }
+
+    @Then("description of expected system behavior")
+    public void descriptionOfExpectedSystemBehavior() {
+    }
 }
